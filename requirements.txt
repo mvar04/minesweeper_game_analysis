@@ -4,7 +4,7 @@ keras
 tensorflow
 matplotlib
 seaborn
-sklearn
+scikit-learn
 bs4
 requests
 json
