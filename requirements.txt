@@ -1,4 +1,3 @@
-os
 numpy
 pandas
 keras
@@ -11,4 +10,3 @@ bs4
 re
 requests
 json
-sys
