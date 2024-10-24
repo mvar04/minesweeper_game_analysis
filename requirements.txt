@@ -1,0 +1,14 @@
+os
+numpy
+pandas
+keras
+tensorflow
+matplotlib
+seaborn
+pickle
+sklearn
+bs4
+re
+requests
+json
+sys
