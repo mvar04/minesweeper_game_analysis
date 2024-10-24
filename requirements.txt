@@ -4,7 +4,6 @@ keras
 tensorflow
 matplotlib
 seaborn
-pickle-p2
 sklearn
 bs4
 requests
